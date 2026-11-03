@@ -340,4 +340,4 @@ financial-operations-analytics/
 B.Tech, Electronics & Computer Engineering · targeting Data Analyst and Business Analyst roles
 
 [GitHub](https://github.com/CryptedBlade) · [LinkedIn](https://linkedin.com/in/harshhhhhh) · [Portfolio](https://harshhhhhdata.lovable.app)
- 
+
